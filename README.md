@@ -9,10 +9,9 @@ To understand the concept and lifecycle of patch management
 To analyze the risks posed by unpatched systems
 To study real-world cyber incidents caused by missing patches
 To recommend best practices for effective patch management
+
 🧠 Introduction
-
 In today's digital landscape, cyber threats are continuously evolving. Attackers actively exploit known vulnerabilities in outdated systems. Software vendors regularly release patches to address these vulnerabilities, but failure to apply them in a timely manner leaves systems exposed.
-
 Patch management is not just a maintenance task—it is a critical security control that directly impacts an organization’s ability to defend against cyber attacks.
 
 🔄 Patch Management Lifecycle
@@ -23,6 +22,7 @@ C --> D[Test Patch]
 D --> E[Deploy Patch]
 E --> F[Verify Installation]
 F --> G[Monitor Systems]
+
 🔍 Explanation:
 Identify Assets
 Maintain an inventory of all hardware and software assets.
